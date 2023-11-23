@@ -14,4 +14,4 @@ namespace Carbook.Application.Features.CQRS.Commands.AboutCommands
         public string ImageUrl { get; set; }
     }
 }
-}
+

@@ -16,3 +16,5 @@ C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Infrastructure\Carbook
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Infrastructure\Carbook.Persistence\obj\Debug\net8.0\Carbook.Persistence.pdb
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Infrastructure\Carbook.Persistence\obj\Debug\net8.0\Carbook.Persistence.genruntimeconfig.cache
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Infrastructure\Carbook.Persistence\obj\Debug\net8.0\ref\Carbook.Persistence.dll
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Infrastructure\Carbook.Persistence\bin\Debug\net8.0\Carbook.Application.dll
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Infrastructure\Carbook.Persistence\bin\Debug\net8.0\Carbook.Application.pdb

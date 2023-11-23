@@ -1,0 +1,16 @@
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\Carbook.Application.csproj.AssemblyReference.cache
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\Carbook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\Carbook.Application.AssemblyInfoInputs.cache
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\Carbook.Application.AssemblyInfo.cs
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\Carbook.Application.csproj.CoreCompileInputs.cache
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\Carbook.Application.sourcelink.json
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\bin\Debug\net8.0\Carbook.Application.deps.json
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\bin\Debug\net8.0\Carbook.Application.dll
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\bin\Debug\net8.0\Carbook.Application.pdb
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\bin\Debug\net8.0\CarBook.Domain.dll
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\bin\Debug\net8.0\CarBook.Domain.pdb
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\Carbook.Application.csproj.CopyComplete
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\Carbook.Application.dll
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\refint\Carbook.Application.dll
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\Carbook.Application.pdb
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Core\Carbook.Application\obj\Debug\net8.0\ref\Carbook.Application.dll

@@ -1,10 +1,13 @@
 using Carbook.Application.Features.CQRS.Handlers.AboutHandlers;
+using Carbook.Application.Interfaces;
 using Carbook.Persistence.Context;
+using Carbook.Persistence.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddScoped<CarBookContext>();
+builder.Services.AddScoped(typeof(IRepository <>),typeof(Repository<>));
 
 builder.Services.AddScoped<GetAboutByIdQueryHandler>();
 builder.Services.AddScoped<GetAboutQueryHandler>();

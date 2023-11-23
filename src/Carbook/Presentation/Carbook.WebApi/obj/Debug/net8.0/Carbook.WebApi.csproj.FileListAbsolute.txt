@@ -122,7 +122,6 @@ C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.W
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\obj\Debug\net8.0\Carbook.WebApi.AssemblyInfoInputs.cache
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\obj\Debug\net8.0\Carbook.WebApi.AssemblyInfo.cs
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\obj\Debug\net8.0\Carbook.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\obj\Debug\net8.0\Carbook.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\obj\Debug\net8.0\Carbook.WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\obj\Debug\net8.0\Carbook.WebApi.sourcelink.json
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\obj\Debug\net8.0\staticwebassets.build.json
@@ -139,3 +138,5 @@ C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.W
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\obj\Debug\net8.0\Carbook.WebApi.pdb
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\obj\Debug\net8.0\Carbook.WebApi.genruntimeconfig.cache
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\obj\Debug\net8.0\ref\Carbook.WebApi.dll
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\bin\Debug\net8.0\Carbook.Application.dll
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Presentation\Carbook.WebApi\bin\Debug\net8.0\Carbook.Application.pdb
