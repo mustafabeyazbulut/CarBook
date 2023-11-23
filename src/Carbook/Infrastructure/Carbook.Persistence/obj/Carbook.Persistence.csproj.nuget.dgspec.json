@@ -27,7 +27,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\CarBook\\src\\Carbook\\Core\\CarBook.Domain\\CarBook.Domain.csproj": {
+                "projectPath": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\CarBook\\src\\Carbook\\Core\\CarBook.Domain\\CarBook.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
