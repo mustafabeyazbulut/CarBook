@@ -21,7 +21,6 @@ namespace Carbook.Application.Features.CQRS.Handlers.BrandHandlers
         {
             var values = await _repository.GetByIdAsync(command.BrandId);
             values.Name = command.Name;
-            values.Cars = command.Cars;
             await _repository.UpdateAsync(values);
         }
     }
