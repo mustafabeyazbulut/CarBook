@@ -1,7 +1,6 @@
 ﻿using Carbook.Application.Features.CQRS.Commands.AboutCommands;
 using Carbook.Application.Features.CQRS.Handlers.AboutHandlers;
 using Carbook.Application.Features.CQRS.Queries.AboutQueries;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Carbook.WebApi.Controllers
