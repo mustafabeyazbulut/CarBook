@@ -1,12 +1,6 @@
-﻿using Carbook.Application.Features.CQRS.Results.BannerResults;
-using Carbook.Application.Features.CQRS.Results.BrandResults;
+﻿using Carbook.Application.Features.CQRS.Results.BrandResults;
 using Carbook.Application.Interfaces;
 using CarBook.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Carbook.Application.Features.CQRS.Handlers.BrandHandlers
 {

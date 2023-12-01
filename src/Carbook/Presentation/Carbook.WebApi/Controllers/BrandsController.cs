@@ -46,7 +46,7 @@ namespace Carbook.WebApi.Controllers
         public async Task<IActionResult> CreateBrand(CreateBrandCommand command)
         {
             await _createBrandCommandHandler.Handle(command);
-            return Ok("Add new Banner.");
+            return Ok("Add new Brand.");
         }
         [HttpDelete]
         public async Task<IActionResult> RemoveBrand(int id)
