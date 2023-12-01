@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "eB+ef68LGqaYTpc+N8VU1H26MnVjFhplvFQ21xTvsp8/FTERQakpqt0npDZDR1oIBAyMZKxmEo4A666ilTkTlQ==",
+  "dgSpecHash": "yLim1hdrOVWSwyqqpgg7qAa2/8UBvMpcuVFLO3mIuvNoZQlxmHeAsykt5O6DNbKKGtyETp99SsGJKdUTiZXeVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\mbeyazbulut\\Documents\\GitHub\\CarBook\\src\\Carbook\\Core\\Carbook.Application\\Carbook.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mbeyazbulut\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\mbeyazbulut\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\mbeyazbulut\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\mbeyazbulut\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mbeyazbulut\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mbeyazbulut\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

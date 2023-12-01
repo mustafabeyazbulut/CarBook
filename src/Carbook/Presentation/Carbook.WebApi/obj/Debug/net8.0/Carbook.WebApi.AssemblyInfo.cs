@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carbook.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8531f719f849bfe4133ff39c46920a9a95e4f42d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7770ed97c2ea5bf586f07646ae3ac73f0d153522")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carbook.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carbook.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
