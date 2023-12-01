@@ -1,7 +1,7 @@
 ﻿using Carbook.Application.Features.CQRS.Queries.BannerQueries;
 using Carbook.Application.Features.CQRS.Results.BannerResults;
 using Carbook.Application.Interfaces;
-
+using CarBook.Domain.Entities;
 
 namespace Carbook.Application.Features.CQRS.Handlers.BannerHandlers
 {
