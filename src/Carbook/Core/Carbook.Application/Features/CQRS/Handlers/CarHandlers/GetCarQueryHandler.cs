@@ -7,7 +7,6 @@ namespace Carbook.Application.Features.CQRS.Handlers.CarHandlers
     public class GetCarQueryHandler
     {
         private readonly IRepository<Car> _repository;
-
         public GetCarQueryHandler(IRepository<Car> repository)
         {
             _repository = repository;
@@ -15,7 +14,6 @@ namespace Carbook.Application.Features.CQRS.Handlers.CarHandlers
         public async Task<List<GetCarQueryResult>> Handle()
         {
             var values = await _repository.GetAllAsync();
-
             return values.Select(x => new GetCarQueryResult
             {
                 CarId = x.CarId,
