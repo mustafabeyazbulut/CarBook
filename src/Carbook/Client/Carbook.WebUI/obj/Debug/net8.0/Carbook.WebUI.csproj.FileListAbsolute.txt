@@ -532,3 +532,5 @@ C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Client\Carbook.WebUI\b
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Client\Carbook.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Client\Carbook.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Client\Carbook.WebUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Client\Carbook.WebUI\bin\Debug\net8.0\Carbook.Dto.dll
+C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Client\Carbook.WebUI\bin\Debug\net8.0\Carbook.Dto.pdb

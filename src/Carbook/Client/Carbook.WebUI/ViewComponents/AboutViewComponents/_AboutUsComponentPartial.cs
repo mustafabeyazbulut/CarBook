@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Carbook.Dto.AboutDtos;
+using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 
 namespace Carbook.WebUI.ViewComponents.AboutViewComponents
 {
@@ -14,7 +16,12 @@ namespace Carbook.WebUI.ViewComponents.AboutViewComponents
         public async Task< IViewComponentResult> InvokeAsync()
         {
             var client= _httpClientFactory.CreateClient();
-            var responseMessage = await client.GetAsync("");
+            var responseMessage = await client.GetAsync("https://localhost:7166/api/Abouts");
+            if(responseMessage.IsSuccessStatusCode) {
+                var jsonData= await responseMessage.Content.ReadAsStringAsync();
+                var values= JsonConvert.DeserializeObject<List<ResultAboutDto>>(jsonData);
+                return View(values);
+            }
             return View();
         }
     }
