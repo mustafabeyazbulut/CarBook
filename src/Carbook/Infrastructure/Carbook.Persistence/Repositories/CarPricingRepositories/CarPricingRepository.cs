@@ -14,7 +14,10 @@ namespace Carbook.Persistence.Repositories.CarPricingRepositories
         }
         public List<CarPricing> GetCarPricingWithCars()
         {
-            var values = _context.CarPricings.Include(x => x.Car).ThenInclude(y => y.Brand).Include(z => z.Pricing).ToList();
+            var values = _context.CarPricings.Include(x => x.Car).ThenInclude(y => y.Brand)
+                .Include(z => z.Pricing)
+                .Where(x=>x.PricingId==3)
+                .ToList();
             return values;
         }
     }
