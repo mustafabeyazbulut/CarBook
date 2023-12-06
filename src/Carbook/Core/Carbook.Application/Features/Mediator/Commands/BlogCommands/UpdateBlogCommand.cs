@@ -1,7 +1,8 @@
-﻿
-namespace Carbook.Application.Features.Mediator.Results.BlogResults
+﻿using MediatR;
+
+namespace Carbook.Application.Features.Mediator.Commands.BlogCommands
 {
-    public class GetBlogQueryResult
+    public class UpdateBlogCommand:IRequest
     {
         public int BlogId { get; set; }
         public string Title { get; set; }
