@@ -1,4 +1,5 @@
-﻿using Carbook.Application.Features.Mediator.Results.BlogResults;
+﻿using Carbook.Application.Features.Mediator.Queries.BlogQueries;
+using Carbook.Application.Features.Mediator.Results.BlogResults;
 using Carbook.Application.Interfaces.BlogInterfaces;
 using MediatR;
 
@@ -22,7 +23,8 @@ namespace Carbook.Application.Features.Mediator.Handlers.BlogHandlers
                 CoverImageUrl = x.CoverImageUrl,
                 CreatedDate = x.CreatedDate,
                 Title= x.Title,
-                AuthorName=x.Author.Name
+                Description= x.Description,
+                AuthorName =x.Author.Name
             }).ToList();
         }
     }

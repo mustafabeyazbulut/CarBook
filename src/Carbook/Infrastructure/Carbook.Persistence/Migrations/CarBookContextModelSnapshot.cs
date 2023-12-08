@@ -122,6 +122,10 @@ namespace Carbook.Persistence.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -543,7 +547,7 @@ namespace Carbook.Persistence.Migrations
 
             modelBuilder.Entity("CarBook.Domain.Entities.CarPricing", b =>
                 {
-                    b.HasOne("CarBook.Domain.Entities.Car", null)
+                    b.HasOne("CarBook.Domain.Entities.Car", "Car")
                         .WithMany("CarPricings")
                         .HasForeignKey("CarId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -554,6 +558,8 @@ namespace Carbook.Persistence.Migrations
                         .HasForeignKey("PricingId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Car");
 
                     b.Navigation("Pricing");
                 });
