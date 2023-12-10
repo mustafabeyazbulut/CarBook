@@ -66,8 +66,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0VXNDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Views/Shared/Components/_AddCommentComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkZENvbW1lbnRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Views/Shared/Components/_BecomeADriveComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0JlY29tZUFEcml2ZUNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Views/Shared/Components/_BlogDetailAuthorAboutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxBdXRob3JBYm91dENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Views/Shared/Components/_BlogDetailCloudTagByBlogComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxDbG91ZFRhZ0J5QmxvZ0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Views/Shared/Components/_BlogDetailMainComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxNYWluQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Views/Shared/Components/_BlogDetailParagraphComponentPartial/Default.cshtml]
@@ -88,6 +104,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Views/Shared/Components/_BlogDetailTagCloudComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxUYWdDbG91ZENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Views/Shared/Components/_CommentListByBlogComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbW1lbnRMaXN0QnlCbG9nQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Views/Shared/Components/_DefaultCoverUILayoutComponentPartial/Default.cshtml]
