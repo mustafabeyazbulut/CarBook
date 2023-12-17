@@ -1,7 +1,7 @@
 ﻿
 namespace Carbook.Dto.BannerDtos
 {
-    public class ResultBannerDto
+    public class UpdateBannerDto
     {
         public int BannerId { get; set; }
         public string Title { get; set; }

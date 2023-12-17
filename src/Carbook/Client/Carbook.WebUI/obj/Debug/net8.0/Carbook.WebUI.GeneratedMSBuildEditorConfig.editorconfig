@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\mbeyazbulut\Documents\GitHub\CarBook\src\Carbook\Client\Carbook.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Areas/Admin/Views/AdminBanner/CreateBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CYW5uZXJcQ3JlYXRlQmFubmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Areas/Admin/Views/AdminBanner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CYW5uZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Areas/Admin/Views/AdminBanner/UpdateBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CYW5uZXJcVXBkYXRlQmFubmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Areas/Admin/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Areas/Admin/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mbeyazbulut/Documents/GitHub/CarBook/src/Carbook/Client/Carbook.WebUI/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
