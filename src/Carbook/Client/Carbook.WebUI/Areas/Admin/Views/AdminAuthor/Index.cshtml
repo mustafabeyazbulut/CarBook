@@ -1,0 +1,44 @@
+﻿@model List<ResultAuthorDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Ana Sayfa Author Alanı</h4>
+        <p class="card-subtitle mb-4">
+            
+        </p>
+        <div class="table-responsive">
+            <table class="table mb-0">
+                <thead>
+                    <tr>
+                        <th>Yazar İsmi</th>
+                        <th>Fotoğraf Url</th>
+                        <th>Yazar Açıklaması</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td>@item.ImageUrl</td>
+                            <td>@item.Description</td>
+                            <td><a href="/Admin/AdminAuthor/RemoveAuthor/@item.AuthorId" class="btn btn-outline-danger">Sil</a></td>
+                            <td><a href="/Admin/AdminAuthor/UpdateAuthor/@item.AuthorId" class="btn btn-outline-success">Güncelle</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <a href="/Admin/AdminAuthor/CreateAuthor/" class="btn btn-outline-primary">Yeni Author Girişi</a>
+        </div>
+
+    </div>
+    <!-- end card-body-->
+</div>
+
+

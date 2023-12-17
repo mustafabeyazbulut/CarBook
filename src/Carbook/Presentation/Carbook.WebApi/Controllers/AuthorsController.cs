@@ -34,7 +34,7 @@ namespace Carbook.WebApi.Controllers
             await _mediator.Send(command);
             return Ok("Author added");
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveAuthor(int id)
         {
             await _mediator.Send(new RemoveAuthorCommand(id));
