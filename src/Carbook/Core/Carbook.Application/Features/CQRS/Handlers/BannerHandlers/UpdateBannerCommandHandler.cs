@@ -19,6 +19,7 @@ namespace Carbook.Application.Features.CQRS.Handlers.BannerHandlers
             values.VideoUrl = command.VideoUrl;
             values.Title = command.Title;
             values.Description = command.Description;
+            values.VideoDescription= command.VideoDescription;
             await _repository.UpdateAsync(values);
         }
     }
