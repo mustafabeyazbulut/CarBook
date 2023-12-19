@@ -1,0 +1,39 @@
+﻿@model List<ResultPricingDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Ödemeler Alanı</h4>
+        <p class="card-subtitle mb-4">
+            Anasayfanın Pricing alanında bulunan bilgileri aşağıdan düzenleyebilirsiniz. Tema bütünlüğünün bozulmaması adına lütfen sadece 1 tane veri girişi yapınız. Aksi durumlarda tema bütünlüğü bozulacaktır.
+        </p>
+        <div class="table-responsive">
+            <table class="table mb-0">
+                <thead>
+                    <tr>
+                        <th>Ödeme Türü</th>
+                        <th>Sil</th>
+                        <th>Güncelle</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td><a href="/Admin/AdminPricing/RemovePricing/@item.PricingId" class="btn btn-outline-danger">Sil</a></td>
+                            <td><a href="/Admin/AdminPricing/UpdatePricing/@item.PricingId" class="btn btn-outline-success">Güncelle</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <a href="/Admin/AdminPricing/CreatePricing/" class="btn btn-outline-primary">Yeni Ödeme Türü Girişi</a>
+        </div>
+
+    </div>
+    <!-- end card-body-->
+</div>
+
