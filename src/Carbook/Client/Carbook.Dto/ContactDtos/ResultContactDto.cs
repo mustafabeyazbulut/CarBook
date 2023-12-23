@@ -1,5 +1,4 @@
-﻿
-namespace Carbook.Dto.ContactDtos
+﻿namespace Carbook.Dto.ContactDtos
 {
     public class ResultContactDto
     {
